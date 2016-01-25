@@ -1,0 +1,28 @@
+name: FernandaVillanueva
+favicon: null
+layout_spectrum: 0.7385704563930631
+typography_spectrum: 0.6694470185320824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7659775544889271
+  lightness: 0.865228995680809
+  saturation: 0.36247318470850587
+  rhythmicContrast: 0.7018656418658793
+purpose: []
